@@ -1,0 +1,41 @@
+# Core Data Science Libraries
+numpy==1.26.4
+pandas==2.2.0
+scikit-learn==1.4.0
+
+# Deep Learning
+tensorflow==2.15.0
+keras==2.15.0
+
+# Financial Data
+yfinance==0.2.36
+
+# NLP and Text Processing
+textblob==0.17.1
+tweepy==4.14.0
+beautifulsoup4==4.12.3
+
+# Web and API
+requests==2.31.0
+fastapi==0.110.0
+uvicorn==0.27.1
+flask==3.0.1
+gunicorn==21.2.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.2
+
+# XML Processing
+lxml==4.9.4
+
+# HTTP Client
+urllib3==2.2.0
+
+# Optional but recommended
+jupyter==1.0.0
+ipython==8.18.1
+
+# Additional Utils
+tqdm==4.66.1
+python-dateutil==2.9.0
